@@ -1,0 +1,1 @@
+answers to exercises from the [scope-chains-and-closures](https://github.com/jesstelford/scope-chains-closures) workshopper
